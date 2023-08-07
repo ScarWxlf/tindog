@@ -26,3 +26,9 @@
   height: 100px;
   border-radius: 50%;
 }
+
+.logomt{
+  position: relative;
+  bottom: 70px;
+  right: 80px;
+}
